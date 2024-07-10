@@ -1,0 +1,2 @@
+# tryCNN_pokemon
+第一次用github，下載了kaggle上的pokemon資料圖檔，來練習今天炎龍老師教的遷移式學習。
